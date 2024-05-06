@@ -28,6 +28,7 @@ router.register(r'rating', RatingViewSet, basename='rating')
 router.register(r'platforms', PlatformViewSet, basename='platform')
 router.register(r'all-collections', AllCollectionsViewSet, basename='all-collections')
 
+
 urlpatterns = [
     path("", include(router.urls)),
     path("register/", register_user, name='register'),
