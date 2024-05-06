@@ -1,0 +1,33 @@
+[
+{
+    "username": "luke", 
+    "password": "Admin*8",
+    "email": "luke@luke.com",
+    "first_name": "Luke",
+    "last_name": "Williams"
+},
+
+{
+    "username": "mark", 
+    "password": "Admin*8",
+    "email": "mark@mark.com",
+    "first_name": "Mark",
+   "last_name": "Williams"
+} ,
+
+{
+    "username": "kate", 
+    "password": "Admin*8",
+    "email": "kate@kate.com",
+    "first_name": "Kate",
+    "last_name": "Williams"
+},
+{
+    "username": "paul", 
+    "password": "Admin*8",
+    "email": "paul@paul.com",
+    "first_name": "Paul",
+    "last_name": "Williams"
+}
+
+]

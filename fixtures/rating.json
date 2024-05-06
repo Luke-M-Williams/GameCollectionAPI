@@ -1,0 +1,11 @@
+[
+    {
+        "model": "GameCollectionAPI.rating",
+        "pk": 1,
+        "fields": {
+            "user_id": 1,
+            "game_id": 1,
+            "score": 10
+        }
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "model": "GameCollectionAPI.tag",
+        "pk": 1,
+        "fields": {
+            "platform": "SNES" 
+        }
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "model": "GameCollectionAPI.game",
+        "pk": 1,
+        "fields": {
+            "title": "Chrono Trigger",
+            "cover_art": "https://example.com/chrono_trigger_cover.jpg",
+            "genre": "RPG",
+            "developer": "Square Enix",
+            "release_date": "1995-03-11",
+            "platform_id": 1,
+            "length": 30.0
+    }
+}
+]
